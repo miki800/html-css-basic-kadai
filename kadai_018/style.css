@@ -3,13 +3,11 @@
     background-color: #dcc9f4;
     margin: 20px auto;
     text-align: center;
-    padding: 10px 0;
 }
 .top-child {
     width: 20%;
     background-color:#ffd9df;
     display: inline-block;
-    padding: 5px 0;
 }
 #middle {
     width: 800px;
@@ -44,8 +42,7 @@
     left: 500px;
 }
 #bottom{
-    margin-left: auto;
-    margin-right: auto;
+    margin:auto;
     width: 800px;
     height: 300px;
     background-color: #87ceeb;
